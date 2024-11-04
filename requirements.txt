@@ -1,0 +1,14 @@
+socket
+threading
+tkinter
+platform
+tkinter
+customtkinter
+psutil
+serial
+usb
+bleak
+asyncio
+validators
+esptool
+io

@@ -1,8 +1,7 @@
 from windows.MainWindow import MainWindow
 
 # Main window instance
-_MainWindow = MainWindow()
+_MainWindow_ = MainWindow()
 
 # Run mainloop
-_MainWindow.root.mainloop()
-
+_MainWindow_.root.mainloop()
